@@ -9,6 +9,8 @@ The more data we can collect the more trends we can identify and get to the root
 I have made a few analytical graphs to identify trends based on the data I gathered. Hope this proves fruitful.
 Note: Please add any of your visualizations or data predictions in the visualization folder.
 
+The visualizations were done in Matplotlib in Python and MATLAB. Source codes have been posted. If you wish to add any visualizations please add the source codes and the data along with it to maintain credibility and authenticity of the project. Thank you for your cooperation !!!
+
 ![Per Capita Income by State](https://github.com/pandyah5/Black_Hate_Crime_Analysis/blob/master/Visualizations/Per_Capita_Income_US.png)
 
 ![Recents State Wise hate Crime](https://github.com/pandyah5/Black_Hate_Crime_Analysis/blob/master/Visualizations/Recent_State_wise_black_crime_count.png)
